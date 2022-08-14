@@ -1,0 +1,39 @@
+.gameAction {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.gameAction_status{
+    margin: 0;
+    width: 90px;
+    color: #46004c;
+    font-weight: 800;
+}
+
+.gameAction_result{
+    margin: 0;
+    width: 90px;
+    color: #005168;
+    font-weight: 800;
+}
+
+.gameAction_ready {
+    background-color: #1e1e1e;
+    width: 110px;
+    height: 30px;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.gameAction_ready:hover {
+    background-color: #2e2e2e;
+}
+
+.gameAction_ready:active {
+    background-color: black;
+}

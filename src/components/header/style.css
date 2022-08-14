@@ -1,0 +1,14 @@
+header {
+    height: 60px;
+    background-color: #1e1e1e;
+}
+
+.headerTitle {
+    margin: 0;
+    display: flex;
+    color: #ffffff;
+    font-size: 31px;
+    padding-top: 12px;
+    user-select: none;
+    justify-content: center;
+}

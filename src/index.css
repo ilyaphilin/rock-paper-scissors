@@ -1,0 +1,12 @@
+* {
+    font-family: "Calibri Light", sans-serif;
+}
+
+body {
+    background-color: #c9c9c9;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 300px;
+}

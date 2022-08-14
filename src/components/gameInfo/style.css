@@ -1,0 +1,16 @@
+.gameInfo{
+    display: flex;
+    font-size: 14px;
+}
+.gameInfo_statistic {
+    width: 60%;
+}
+
+.gameInfo_statistic ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.gameInfo_score p{
+    margin-bottom: 0;
+}

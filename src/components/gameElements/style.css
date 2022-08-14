@@ -1,0 +1,34 @@
+.gameElements {
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.gameElements p {
+    margin-top: 0;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.gameElements button {
+    border: none;
+    border-radius: 15px;
+    background-color: #4b4b4b;
+    width: 88px;
+    height: 88px;
+    cursor: pointer;
+}
+
+.gameElements button:hover {
+    background-color: #1e1e1e;
+}
+
+.gameElements button img {
+    margin-top: -1px;
+}
+
+.selected {
+    outline: 4px solid #ffba00;
+    outline-offset: -1px;
+}
